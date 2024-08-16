@@ -21,13 +21,13 @@ Sebastián</a></h1>
 
  💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
 
- 📫 Reach out to me: **arjuncvinod7@gmail.com**
+ 📫 Reach out to me: **Sebasrojasm1@gmail.com**
 
  ✍ You can find my resume [here](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
 
- ⚡ Fun fact: **My first line of code was not "Hello World!"**
+ ⚡ Fun fact: **I graduated from college with a degree in Gastronomy**
 
-
+![](https://komarev.com/ghpvc/?username=SebasRojasM1&style=for-the-badge) 
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -47,17 +47,13 @@ Sebastián</a></h1>
   
   </td>
 </tr>
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SebasRojasM1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
 
 
 </p>        
-<!--- stats (end) -->
+<!--- https://github.com/Ileriayo/markdown-badges -->
