@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Sebastián</a></h1>
-<h3 align="center">A passionate frontend developer from Medellín, Colombia &#127470;&#127475</h3>
+<h3 align="center">A passionate frontend developer from Medellín, Colombia &#127464; &#127476;</h3>
 
 
 <!--h2 without bottom border-->
