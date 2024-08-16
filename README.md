@@ -12,9 +12,7 @@ Sebastián</a></h1>
 
 
 
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
-<br> **About Me**
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/1d11s820dgm91.gif">
 
 
  🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)
